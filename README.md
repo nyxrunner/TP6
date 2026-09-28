@@ -3,9 +3,6 @@
 # <span style="color: #0E5EA1;">TP6: Patrones de Diseño</span>
 </div>
 
-## <span style="color: #0E5EA1;">Informe del Trabajo</span>
-Cada patrón está organizado en su propio paquete Java con una clase Main para probar su funcionamiento
-
 ## <span style="color: #0E5EA1;">1. Singleton (Creacional)</span>
 
 * **Problema:** Varios módulos deben consultar y modificar la configuración global de la librería <span style="color: #0E5EA1;">**La Red Escrita**</span> sin desincronizarse.
